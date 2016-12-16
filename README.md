@@ -42,3 +42,4 @@ This assignment allows for a large number of possible stretch goals. You are enc
 
 ##Resources
 http://www.w3schools.com/jsref/jsref_random.asp
+http://www.w3schools.com/jsref/met_node_appendchild.asp

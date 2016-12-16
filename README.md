@@ -41,5 +41,5 @@ This assignment allows for a large number of possible stretch goals. You are enc
 * What if people want to generate fortunes for their whole table? Why not allow somebody to generate multiple fortunes at the same time? How would you change the code and HTML to support that?
 
 ##Resources
-http://www.w3schools.com/jsref/jsref_random.asp
-http://www.w3schools.com/jsref/met_node_appendchild.asp
+- http://www.w3schools.com/jsref/jsref_random.asp
+- http://www.w3schools.com/jsref/met_node_appendchild.asp

@@ -7,6 +7,14 @@ in a fortune cookie.
 Feel free to have fun with this, and there are lots of ways to stretch in this
 assignment. If done right, this could be a fun portfolio piece.
 
+## Objective
+To create a simple working application accessing **HTML Elements** with the DOM and using **JavaScript Logic** and **Events** to create a button on a web page and when the user clicks on that button, they will receive a visual indicator that they clicked the button.
+
+## Prerequisites 
+In order to complete this project students must have the following:
+- Basic understanding of HTML structures and HTML attributes. 
+- Basic understanding of JavaScript and DOM.
+
 ## Your Challenge
 To complete the base level of this assignment, you must fulfill the following
 requirements:
@@ -14,14 +22,14 @@ requirements:
 * Set up your project file structure through the command line.
 * Create a "Make My Fortune!" button in your `html` structure.
 * Create a box with the id `fortune-cookie-text`.
-* Create a box with the id `previous-fortunes`
+* Create a box with the id `previous-fortunes`.
 * Add an `onclick` attribute to the button so it executes the `generateFortuneCookie` function when it is clicked.
 * In the `app.js` create the logic to display a fortune:
     * Select the `fortune-cookie-text` element.
     * Append the current text in the `fortune-cookie-text` element as a list item (`li`) within the `previous-fortunes` list.
     * Create an array called `fortunesList` that includes fortunes.
     * Select a random fortune cookie saying from the `fortunesList` Array using a `for loop`.
-    * Replace the `innerText` of the `#fortune-cookie-text` element with the data you selected from `fortunesList`.
+    * Replace the `innerText` of the `fortune-cookie-text` element with the data you selected from `fortunesList`.
 * Make sure a fortune is generated each time the user clicks the button.
 
 ## Stretch Goals
